@@ -76,7 +76,7 @@ To run the project locally, follow these steps:
 
 <p align="center"> <img src = Images/Confusion-Matrix/Confusion-Matrix_GB.png width =45% height 30%=/> </p>
 
-### Feature Importance
+### Feature Importances
 
 <p align="center"> <img src = Images/Confusion-Matrix/Feature_Importance.png width =45% height 30%=/> </p>
 
