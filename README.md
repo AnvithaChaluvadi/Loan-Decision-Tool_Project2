@@ -13,6 +13,21 @@ Our tool utilizes machine learning models to assist lenders in making informed d
 
 If you would like to look at our in-depth analysis, please refer to our test-loan defaulter.ipynb
 
+## Installation Instructions
+To run the project locally, follow these steps:
+
+1. Install Python 3.x.
+2. Install Anaconda Navigator.
+3. Clone this repository.
+4. Install required Python libraries using `pip install -r requirements.txt`.
+
+## Usage
+* Data Preparation: Preprocess the loan datasets to handle missing values, outliers, and feature engineering tasks such as encoding categorical variables, scaling numerical features, and creating new features.
+
+* Model Training: Train machine learning models using the preprocessed datasets, experimenting with different algorithms, and feature combinations. Evaluate model performance using appropriate metrics.
+
+* Model Interpretation: Interpret model predictions, analyze feature importance, and assess model biases and limitations. Ensure transparency and accountability in model decision-making processes.
+
 ## Preview Visualizations
 ### Exploratory Data Analysis
 
@@ -65,9 +80,11 @@ If you would like to look at our in-depth analysis, please refer to our test-loa
 
 <p align="center"> <img src = Images/Confusion-Matrix/Feature_Importance.png width =45% height 30%=/> </p>
 
-## References
+## Data Sources
+The dataset used in this project can be found at [test-loan defaulter data.csv](https://github.com/Akosah304/loan_decsion_tool_Project-2/tree/main/Resources).
 
-[Kaggle](https://www.kaggle.com/datasets)
+## Results
+As a result, the logistic and decision tree models demonstrate balanced performance across all metrics, positioning them as strong contenders. The Random Forest model follows closely behind as a reliable choice. Although Naive Bayes remains competitive but slightly less consistent, Gradient Boosting shows lower overall effectiveness in this evaluation. Ultimately, selecting the best model depends on the specific priorities of the task, whether focusing on precision, recall, accuracy, or a combination of these metrics.
 
 ### <ins>Presentation</ins> 
 [You Are Not A-Loan Presentation](https://docs.google.com/presentation/d/14dwuvp862QAsIPoE3zPzj3lQefg4naZ2HSFHFiIx_xQ/edit?usp=sharing)
