@@ -78,7 +78,7 @@ To run the project locally, follow these steps:
 
 ### Feature Importances
 
-<p align="center"> <img src = Images/Confusion-Matrix/Feature_Importance.png width =45% height 30%=/> </p>
+<p align="center"> <img src = Images/Feature_Importance.png width =45% height 30%=/> </p>
 
 ## Data Sources
 The dataset used in this project can be found at [test-loan defaulter data.csv](https://github.com/Akosah304/loan_decsion_tool_Project-2/tree/main/Resources).
