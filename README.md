@@ -26,11 +26,15 @@
 ## Creating a Logistic Regression Model with the Original Data
 ### Making Predictions Using Training Data
 
-<p align="center"> <img src = Images/Confusion-Matrix/Confusion-Matrix_1.png width =45% height 30%=/> </p>
+<p align="center"> <img src = Images/Confusion-Matrix/Confusion-Matrix_Training.png width =45% height 30%=/> </p>
 
 ### Making Predictions Using Testing Data 
 
-<p align="center"> <img src = Images/Confusion-Matrix/Confusion-Matrix_2.png width =45% height 30%=/> </p>
+<p align="center"> <img src = Images/Confusion-Matrix/Confusion-Matrix_Testing.png width =45% height 30%=/> </p>
+
+### Confusion Matrix
+<p align="center"> <img src = Images/Confusion-Matrix/Confusion-Matrix_CM.png width =45% height 30%=/> </p>
+<p align="center"> <img src = Images/Confusion-Matrix/Confusion-Matrix_CM-2.png width =45% height 30%=/> </p>
 
 ### Decision Tree
 
@@ -47,5 +51,7 @@
 ### Gradient Boosting
 
 <p align="center"> <img src = Images/Confusion-Matrix/Confusion-Matrix_GB.png width =45% height 30%=/> </p>
+
+
 
 
