@@ -6,8 +6,10 @@
 ## Background
 Both borrowers and lenders view loans as a financial commitment. Successful loans enable borrowers to fulfill lifelong aspirations, while unsuccessful ones pose challenges for everyone involved. Our aim is to develop a machine learning model that empowers lenders to make wiser business decisions while ensuring borrowers avoid enduring financial hardships down the road.
 
+This repository contains the code and documentation for our project. The project focuses on predicting loan default risk using machine learning techniques.
+
 ## What We Are Creating
-Our tool leverages machine learning models to aid lenders in making informed decisions, ensuring borrowers achieve their goals without encountering financial strain. By assessing borrowing capacity, we mitigate risks and facilitate successful lending outcomes.
+Our tool utilizes machine learning models to assist lenders in making informed decisions, ensuring borrowers achieve their goals without facing financial strain. By evaluating borrowing capacity, we mitigate risks and foster successful lending outcomes. To tackle the challenge of predicting loan default likelihood, we leverage historical loan data and employ classification algorithms such as Logistic Regression and Decision Trees to construct a predictive model.
 
 If you would like to look at our in-depth analysis, please refer to our test-loan defaulter.ipynb
 
@@ -58,6 +60,10 @@ If you would like to look at our in-depth analysis, please refer to our test-loa
 #### Gradient Boosting
 
 <p align="center"> <img src = Images/Confusion-Matrix/Confusion-Matrix_GB.png width =45% height 30%=/> </p>
+
+## Feature Importance
+
+<p align="center"> <img src = Images/Confusion-Matrix/Feature_Importance.png width =45% height 30%=/> </p>
 
 ## References
 
