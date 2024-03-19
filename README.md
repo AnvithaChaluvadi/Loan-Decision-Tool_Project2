@@ -11,7 +11,7 @@ This repository contains the code and documentation for our project. The project
 ## What We Are Creating
 Our tool utilizes machine learning models to assist lenders in making informed decisions, ensuring borrowers achieve their goals without facing financial strain. By evaluating borrowing capacity, we mitigate risks and foster successful lending outcomes. To tackle the challenge of predicting loan default likelihood, we leverage historical loan data and employ classification algorithms such as Logistic Regression and Decision Trees to construct a predictive model.
 
-If you would like to look at our in-depth analysis, please refer to our test-loan defaulter.ipynb
+If you would like to look at our in-depth analysis, please refer to our `test-loan defaulter.ipynb`
 
 ## Installation Instructions
 To run the project locally, follow these steps:
